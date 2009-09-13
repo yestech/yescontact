@@ -9,8 +9,8 @@
     <name>YES Contact</name>
     <url>http://yestech.org</url>
     <scm>
-        <connection>scm:git:http://github.com/yestech/yesrpx/tree/master</connection>
-        <developerConnection>scm:git:http://github.com/yestech/yesrpx/tree/master</developerConnection>
+        <connection>scm:git:http://github.com/yestech/yescontact/tree/master</connection>
+        <developerConnection>scm:git:http://github.com/yestech/yescontact/tree/master</developerConnection>
     </scm>
     <organization>
         <name>YES Technology Association</name>
